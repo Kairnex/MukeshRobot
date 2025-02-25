@@ -1,9 +1,9 @@
 """MIT License
 
-Copyright (c) 2023-24 Noob-Mukesh
+Copyright (c) 2023-24 KAIRNEX
 
-          GITHUB: NOOB-MUKESH
-          TELEGRAM: @MR_SUKKUN
+          GITHUB: KAIRNEX
+          TELEGRAM: @kairnex
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -48,7 +48,7 @@ sᴜᴄᴇssғᴜʟʟʏ Gᴇɴᴇʀᴀᴛᴇᴅ Qʀᴄᴏᴅᴇ 💘
     await message.reply_photo(photo=write,caption=caption)
 # -----------CREDITS -----------
 # telegram : @legend_coder
-# github : noob-mukesh
+# github : KAIRNEX
 __mod_name__ = "Qʀᴄᴏᴅᴇ"
 __help__ = """
  ➻ /qrcode : ɢɪᴠᴇ sᴏᴍᴇ ᴛᴇxᴛ ᴛᴏ ɢᴇɴᴇʀᴀᴛᴇ ǫʀᴄᴏᴅᴇ

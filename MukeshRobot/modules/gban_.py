@@ -1,6 +1,6 @@
 # -----------CREDITS -----------
 # telegram : @legend_coder
-# github : noob-mukesh
+# github : KAIRNEX
 from pyrogram import filters
 from .. import pbot as Mukesh,OWNER_ID
 from pyrogram.types import ChatPrivileges,ChatPermissions

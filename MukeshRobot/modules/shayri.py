@@ -1,9 +1,9 @@
 """MIT License
 
-Copyright (c) 2023-24 Noob-Mukesh
+Copyright (c) 2023-24 KAIRNEX
 
-          GITHUB: NOOB-MUKESH
-          TELEGRAM: @MR_SUKKUN
+          GITHUB: KAIRNEX
+          TELEGRAM: @kairnex
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -32,14 +32,14 @@ from pyrogram import filters
 
 # async def love_shayri(b,m):
 
-#     "dont remove this line \n credit  \n github : noob-mukesh"
+#     "dont remove this line \n credit  \n github : KAIRNEX"
 
 #     love = requests.get("https://mukesh-api.vercel.app/loveshayri").json()["results"]    
 #     await m.reply_text(love)
           
 # @pbot.on_message(filters.command("hateshayri"))
 # async def hate_shayri(b,m):
-#     "dont remove this line \n credit  \n github : noob-mukesh"
+#     "dont remove this line \n credit  \n github : KAIRNEX"
 #     hate= requests.get("https://mukesh-api.vercel.app/hateshayri").json()["results"]    
 #     await m.reply_text(hate)   
 
